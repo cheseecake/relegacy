@@ -1,9 +1,7 @@
-hobby project, for learning/experiment only
-
 ![Banner](idkgambar/sigma.png)
 
 ### Relegacy
-Bringback Grow Legacy login System!
+Bringback Grow Legacy login System! (Just for hobby project, for learning/experiment only)
 
 ## About The Project
 
