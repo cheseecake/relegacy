@@ -1,3 +1,5 @@
+hobby project, for learning/experiment only
+
 ![Banner](idkgambar/sigma.png)
 
 ### Relegacy
